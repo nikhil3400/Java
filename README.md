@@ -1,2 +1,2 @@
 # Java
-This repository contains various java codes
+This repository contains various java codes.
